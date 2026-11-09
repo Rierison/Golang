@@ -17,8 +17,6 @@ func main() {
 	motivo := "Pra não enlouqueceerr..." // essa é uma variavel que recebe o texto entres parenteses
 
 
-	
-
 	fmt.Println(para)
 	fmt.Println(coracao)
 	fmt.Println(desejo)
