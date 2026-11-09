@@ -10,7 +10,7 @@ func main() {
 
 	para := f("Paraaa..., Eu não vou suportar toda essa barraaa....")
 
-	coracao := "Meu coração um dia desses paraaa..."
+	coracao := "Meu coração um dia desses paraaa..." /// Outra variavel 
 
 	desejo := "Preciso te ver essa noite, não me importa a horaaa..." // Variavel que recebe o valor entre parenteses 
 
