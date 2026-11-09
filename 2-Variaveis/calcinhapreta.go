@@ -12,9 +12,14 @@ func main() {
 
 	coracao := "Meu coração um dia desses paraaa..."
 
-	desejo := "Preciso te ver essa noite, não me importa a horaaa..."
+	desejo := "Preciso te ver essa noite, não me importa a horaaa..." // Variavel que recebe o valor entre parenteses 
 
 	motivo := "Pra não enlouqueceerr..." // essa é uma variavel que recebe o texto entres parenteses
+
+
+
+
+
 
 
 	fmt.Println(para)
