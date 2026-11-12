@@ -6,6 +6,12 @@ import "fmt"
 // Ela é usada para organizar o código e torná-lo mais legível e reutilizável.
 // É como se fosse uma receita de bolo, onde você pode seguir os passos da receita para fazer o bolo,
 // e depois pode usar a mesma receita para fazer outro bolo.
+
+// As funções em GOLANG podem ter "parâmetros" e "return" (retornos)
+// parâmetros são dados colocados na função para ela funcionar
+// E return(retorno) é o que a função devolve para você
+
+
 func somar(n1 int8, n2 int8) int8 {
 	return n1 + n2
 }
